@@ -1,0 +1,5 @@
+{
+  "name": "AI Training Module Generator",
+  "description": "Upload an audio or video file to automatically transcribe it and generate a Q&A training module using Gemini. The generated module can be downloaded as an Excel file.",
+  "requestFramePermissions": []
+}
